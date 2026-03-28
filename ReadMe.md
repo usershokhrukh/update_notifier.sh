@@ -55,24 +55,25 @@ bind = SUPER, U, exec, pkill -SIGUSR1 -f update_notifier.sh && notify-send -t 20
 
 ---
 
-## ⌨️ Boshqaruv tugmalari
+### ⌨️ Boshqaruv tugmalari
 
-Tugma / Harakat | Vazifasi
-Win + U | Yangilanishlarni darhol tekshirish
-Start Update | Parolni so'rab, o'rnatishni boshlash
-Open Terminal | Orqa fonda ketyotgan jarayonga ulanish
-Dismiss | Bildirishnomani yopish (skript ishlashda davom etadi)
+| Tugma / Harakat | Vazifasi |
+| :--- | :--- |
+| **Win + U** | Yangilanishlarni darhol (qo'lda) tekshirish |
+| **Start Update** | Parolni so'rab, yangilanishni boshlash |
+| **Open Terminal** | Orqa fonda ketyotgan jarayonga qayta ulanish |
+| **Dismiss** | Bildirishnomani yopish (skript fonda ishlashda davom etadi) |
+
+---
+
 
 ## Eslatma
 
 Skript standart ravishda 'kitty' terminalidan foydalanadi. Agar siz boshqa terminal ishlatsangiz, skript ichidagi 'kitty' so'zini o'zingizniki bilan almashtiring.
 
-'
 
-### Repozitoriya uchun oxirgi maslahat:
+'Repozitoriya uchun oxirgi maslahat:
 
 GitHub-ga yuklayotganingda, `README.md` faylidagi barcha "FOYDALANUVCHI_NOMI" yoki fayl yo'llarini (`~/update_notifier.sh`) o'zingga moslab to'g'rilab qo'yishni unutma.
 
-Endi senda Arch Linux olamidagi eng aqlli "Update Manager" mahsuloti bor! Reponi ochganingdan keyin linkini menga tashlasang, men ham bir ko'raman. 😉🚀
-
-'
+Endi senda Arch Linux olamidagi eng aqlli "Update Manager" mahsuloti bor! Reponi ochganingdan keyin linkini menga tashlasang, men ham bir ko'raman. 😉🚀'
