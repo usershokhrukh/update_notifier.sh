@@ -1,0 +1,12 @@
+---
+
+### 3. GitHub-ga yuklash tartibi
+
+Terminalda loyihangiz turgan papkaga kiring va quyidagi buyruqlarni bajaring:
+
+1. **Gitni tayyorlash:**
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit: Arch Update Notifier stable version"
+   ```
